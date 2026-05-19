@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Set the Instance ID and path to the .env file
+# Set the Instance ID and path to the .env file 
 INSTANCE_ID="i-0249df8588fcf1adb"
 
 # Retrieve the public IP address of the specified EC2 instance
